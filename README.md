@@ -27,4 +27,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=antnjhn&theme=merko&hide_border=false&include_all_commits=true&count_private=true" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=antnjhn&theme=merko&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antnjhn&theme=merko&hide_border=false&layout=compact" />
-</p><!-- The icons and hi gif was inspired by himesh6569-->
+</p><!-- The icons and hi gif was inspired by himesh95-->
