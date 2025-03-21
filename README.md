@@ -1,5 +1,5 @@
-### **Hi there** 👋
-## **💫 About Me:**
+<h1> Hi there<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h2>💫 About Me:</h2>
 🎓 I'm a 2nd-year BTech Computer Science student with a focus on Cyber Security.<br>🌱 Exploring various aspects of cybersecurity and its applications.<br>⚡ Passionate about coding, web-dev, problem-solving, and building secure software systems.
 
 ## **🌐 Socials:**
