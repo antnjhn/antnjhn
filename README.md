@@ -18,7 +18,7 @@
 ## **💻 Tech Stack:**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,c,python,bash,gcp,js,git,powershell" />
+    <img src="https://skillicons.dev/icons?i=css,html,c,python,bash,gcp,js,git,powershell,kali" />
   </a>
 </p>
 
