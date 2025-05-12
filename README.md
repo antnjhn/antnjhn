@@ -35,7 +35,7 @@
 ##
 
 <p align="center">
-  <a href="https://antnjhn.github.io/donate-chai/">
+  <a href="https://antnjhn.github.io/donate-chai-widget/">
     <img src="https://raw.githubusercontent.com/antnjhn/antnjhn/main/images/CHAI.png" alt="Scan Me" />
   </a>
 </p>
