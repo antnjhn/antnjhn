@@ -1,15 +1,13 @@
 <h3>Hi there <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50" height="50" /></h3>
 
-##
 
-💫 About Me  
-🎓 I'm a 3rd‑year BTech Computer Science student with a focus on Cyber Security.  
-🌱 Exploring various aspects of cybersecurity and its applications.  
-⚡ Passionate about coding, web‑dev, problem‑solving, and building secure software systems.
 
-##
+## 💫 About Me  
+- 🎓 I'm a 3rd‑year BTech Computer Science student with a focus on Cyber Security.  
+- 🌱 Exploring various aspects of cybersecurity and its applications.  
+- ⚡ Passionate about coding, web‑dev, problem‑solving, and building secure software systems.
 
-🌐 Socials  
+## 🌐 Socials  
 <p align="center">
   <a href="https://discord.gg/anslveki_00439">
     <img src="https://skillicons.dev/icons?i=discord" />
@@ -22,16 +20,12 @@
   </a>
 </p>
 
-##
-
-💻 Tech Stack  
+## 💻 Tech Stack  
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=css,html,c,python,bash,gcp,js,git,powershell,kali" />
+  <img src="https://skillicons.dev/icons?i=css,html,c,python,bash,gcp,js,git,powershell,kali" />
 </p>
 
-##
-
-📊 GitHub Stats  
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=antnjhn&theme=merko&hide_border=false&include_all_commits=true&count_private=true" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antnjhn&theme=merko&hide_border=false&layout=compact" />
@@ -41,11 +35,8 @@
 ##
 
 <p align="center">
-  <a href="https://antnjhn.github.io/qr-page/">
-    <img
-      src="https://raw.githubusercontent.com/antnjhn/antnjhn/main/images/CHAI.png"
-      alt="Scan Me"
+  <a href="https://antnjhn.github.io/donate-chai/">
+    <img src="https://raw.githubusercontent.com/antnjhn/antnjhn/main/images/CHAI.png" alt="Scan Me" />
   </a>
 </p>
-
 <!-- The icons and hi gif was inspired by himesh95 -->
