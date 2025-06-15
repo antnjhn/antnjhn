@@ -1,6 +1,5 @@
-<h3>Hi there <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50" height="50" /></h3>
 
-
+![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)
 
 ## 💫 About Me  
 - 🎓 I'm a 3rd‑year BTech Computer Science student with a focus on Cyber Security.  
